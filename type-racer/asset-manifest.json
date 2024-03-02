@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hosted-websites/type-racer/static/css/main.32013557.css",
-    "main.js": "/hosted-websites/type-racer/static/js/main.ab4bbb53.js",
+    "main.js": "/hosted-websites/type-racer/static/js/main.8db2f4f0.js",
     "static/js/453.57a4e400.chunk.js": "/hosted-websites/type-racer/static/js/453.57a4e400.chunk.js",
     "index.html": "/hosted-websites/type-racer/index.html",
     "main.32013557.css.map": "/hosted-websites/type-racer/static/css/main.32013557.css.map",
-    "main.ab4bbb53.js.map": "/hosted-websites/type-racer/static/js/main.ab4bbb53.js.map",
+    "main.8db2f4f0.js.map": "/hosted-websites/type-racer/static/js/main.8db2f4f0.js.map",
     "453.57a4e400.chunk.js.map": "/hosted-websites/type-racer/static/js/453.57a4e400.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32013557.css",
-    "static/js/main.ab4bbb53.js"
+    "static/js/main.8db2f4f0.js"
   ]
 }
